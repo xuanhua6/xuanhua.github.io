@@ -1,25 +1,25 @@
-title: Hello, world! I'm David Freeman
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Hello, world! I'm xuanhua
+description: > # 这意味着在“baseurl：”之前忽略换行符
+  在这里为您的新网站写一个很棒的描述。你可以编辑它
+  _config.yml中的行。它将出现在您的文档头元（for
+  Google搜索结果）以及您的feed.xml网站说明。
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+baseurl: "/flexible-jekyll" # ＃您网站的子路径，例如/ blog
+url: "" # 您网站的基本主机名和协议，例如http://example.com
+site-twitter: #如果您的网站有推特账号，请在此处输入
 
-# Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+# 作者设置
+author: David Freeman ＃添加你的名字
+author-img: david-freeman.jpg # ＃添加您的照片
+about-author: 我是一个喜欢思考的人. ＃补充说明
+social-twitter: # ＃添加你的Twitter句柄
+social-facebook: # 添加你的Facebook句柄
+social-github: xuanhua6 # 添加你的Github句柄
+social-linkedin: # 添加你的Linkedin句柄
+social-email: xuanhua6@qq.com # 添加您的电子邮件地址
 
-# Disqus
-discus-identifier: mr-brown # add your discus identifier
+# 跟踪
+discus-identifier: mr-brown # 添加你的铁饼标识符
 
 # Tracker
 analytics: # Google Analytics
