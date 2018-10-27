@@ -3,7 +3,7 @@ layout: post
 title: 我的第一个博客
 date: 2017-09-12 00:00:00 +0300
 description: You?ˉll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: blog/first.jpg # Add image post (optional)
+img: i-rest.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
